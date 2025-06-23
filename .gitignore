@@ -1,0 +1,41 @@
+# ======================================================================
+# FILE KONFIGURASI & DATA RAHASIA
+# ======================================================================
+# Abaikan file api.php yang berisi token rahasia.
+config/api.php
+
+# Standar industri untuk environment variables (persiapan untuk masa depan)
+.env
+.env.local
+
+
+# ======================================================================
+# FOLDER BUATAN PENGGUNA & DEPENDENSI
+# ======================================================================
+# Abaikan semua isi dari folder 'uploads'
+/uploads/
+
+# Abaikan folder 'vendor' dari Composer
+/vendor/
+
+# Abaikan folder dependensi Node.js (jika nanti Anda pakai)
+/node_modules/
+
+
+# ======================================================================
+# FILE-FILE LOG & SISTEM OPERASI
+# ======================================================================
+# File Log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# File dari Sistem Operasi & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
