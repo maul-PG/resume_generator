@@ -2,8 +2,8 @@
 
 Selamat datang di **AI Resume Generator**, sebuah aplikasi web interaktif yang dirancang untuk membantu Anda membuat CV profesional dan menarik tanpa ribet. Dengan antarmuka yang intuitif dan bantuan AI, Anda bisa merancang CV impian dalam hitungan menit dan mengunduhnya dalam format PDF yang siap pakai.
 
-![Screenshot Aplikasi Resume Generator](https://i.imgur.com/your-screenshot-url.png) 
-*(Nanti ganti link ini dengan URL screenshot aplikasi Anda)*
+
+![Make easy CV](https://github.com/user-attachments/assets/517d43c3-74e8-44b6-9610-d3389af3ae4e)
 
 ---
 
